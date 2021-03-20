@@ -9,7 +9,5 @@ permalink: /
 # shit
 
 ---
-
-# Focus on writing good documentation
-{: .fs-9 }
-
+无聊摸鱼之作，很喜欢这种大纲归纳文档类的模式，
+希望能写下一些成体系的东西。
