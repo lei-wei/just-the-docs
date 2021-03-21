@@ -6,11 +6,6 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# shit
-
----
-
-
 ## hi，这里是我的博客
 ---
 无聊摸鱼之作，很喜欢这种大纲归纳文档类的模式，希望能写成一些成体系的东西。
