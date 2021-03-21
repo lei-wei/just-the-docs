@@ -12,7 +12,7 @@ nav_order: 99
 
 龙登杰&寒山的口琴重奏版本。
 
-<iframe height=198   width=352 src="//player.bilibili.com/player.html?aid=243934516&bvid=BV1pv411q74X&cid=216963330&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe  src="//player.bilibili.com/player.html?aid=243934516&bvid=BV1pv411q74X&cid=216963330&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 我很喜欢的小提琴版本，供参考。
 

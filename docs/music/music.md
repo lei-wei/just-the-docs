@@ -10,6 +10,6 @@ has_children: true
 
 视频镇楼
 
-名偵探柯南主題曲 (口琴版)- 天狼星口琴樂團 - Sirius Harmonica Ensemble - 名探偵コナン
+[名偵探柯南主題曲 (口琴版)- 天狼星口琴樂團 - Sirius Harmonica Ensemble - 名探偵コナン](https://www.bilibili.com/video/BV1SW411876w)
 
 <iframe src="//player.bilibili.com/player.html?aid=17512267&bvid=BV1SW411876w&cid=28598703&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
