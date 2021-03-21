@@ -1,10 +1,10 @@
 ---
-title:  一步之遥 Por una Cabaza
+title:  《一步之遥 | Por una Cabaza》
 parent: music
 nav_order: 99
 ---
 
-# 《一步之遥 Por una Cabaza》
+# 一步之遥 | Por una Cabaza
 
 主旋律+副旋律
 
@@ -18,7 +18,7 @@ nav_order: 99
 
 <iframe height=198   width=352  src="//player.bilibili.com/player.html?aid=45558086&bvid=BV1Cb411q7k3&cid=79770454&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-老规矩，等等待一个星一的版本。
+老规矩，等待一个星一的版本。
 
 
 ## 曲谱资源
