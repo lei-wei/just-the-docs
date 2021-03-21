@@ -16,7 +16,7 @@ nav_order: 99
 
 我很喜欢的小提琴版本，供参考。
 
-<iframe height=198   width=352  src="//player.bilibili.com/player.html?aid=45558086&bvid=BV1Cb411q7k3&cid=79770454&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe  src="//player.bilibili.com/player.html?aid=45558086&bvid=BV1Cb411q7k3&cid=79770454&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 老规矩，等待一个星一的版本。
 

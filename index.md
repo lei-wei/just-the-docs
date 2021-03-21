@@ -19,4 +19,4 @@ permalink: /
 
 这里是博客新主题的尝试，博客首页在[这里](http://leiwei.xyz)。
 
-社团重奏曲目[指路](https://leiwei.xyz/just-the-docs/docs/music/music/。
+社团重奏曲目[指路](https://leiwei.xyz/just-the-docs/docs/music/music/)。

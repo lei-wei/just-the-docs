@@ -2,7 +2,7 @@
 title: music
 nav_order: 4
 has_children: true
-permalink: /music
+# permalink: /music
 ---
 
 # 曲目展示
