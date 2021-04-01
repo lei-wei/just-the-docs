@@ -1,7 +1,7 @@
 ---
 title:  《一步之遥 | Por una Cabaza》
 parent: music
-nav_order: 99
+nav_order: 6
 ---
 
 # 一步之遥 | Por una Cabaza
