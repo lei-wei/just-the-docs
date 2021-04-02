@@ -1,5 +1,5 @@
 ---
-title: Python装饰器
+title: Python图片处理模块Pillow
 parent: 好好学习天天向上
 nav_order: 2
 has_children: false
